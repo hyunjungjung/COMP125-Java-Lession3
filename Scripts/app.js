@@ -14,9 +14,9 @@
     var paragraphs = [];
     
     // data for my pages   
-    paragraphs[0] = "This is my first paragraph. It is only visible on the first page";
-    paragraphs[1] = "This is my second paragraph. It is only visible on the second page";
-    paragraphs[2] = "This is my third paragraph. It is only visible on the third page";
+    paragraphs[0] = "Welcome to this black-and-white boring webpage which will be changed into an awesome one later!";
+    paragraphs[1] = "Three projects of mine will be added even though they are not good/pretty.";
+    paragraphs[2] = "Do you want to know about me? Wait for a little bit..";
     
     // second way to define an array
     //var paragraphs = new Array();
